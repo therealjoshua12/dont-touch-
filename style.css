@@ -1,0 +1,9 @@
+#a_bucket{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#without_flex_seal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display:none;
+}
